@@ -38,7 +38,7 @@
 
 - Note: Nothing in this document justifies checking in CLs that definitely *worsen* the overall code health of the system. The only time you would do that would be in an [emergency](https://google.github.io/eng-practices/review/emergencies.html).
 
-- 标注：文档中没有任何内容关于检查变更列表对整体代码质量降低的定论，只有在紧急情况下才会这样做。
+- 标注：文档中没有任何内容关于检查变更列表对整体代码质量降低的定论，只有在[紧急情况]((https://google.github.io/eng-practices/review/emergencies.html)下才会这样做。
 
   
 
@@ -84,7 +84,7 @@
 
 - If that doesn’t resolve the situation, the most common way to resolve it would be to escalate. Often the escalation path is to a broader team discussion, having a Technical Lead weigh in, asking for a decision from a maintainer of the code, or asking an Eng Manager to help out. **Don’t let a CL sit around because the author and the reviewer can’t come to an agreement.**
 
-- 如果还是解决不了问题，常见的方法是会议升级，通常可以进行更宽泛的团队会议讨论，让技术Leader参与进来，让代码的维护者做这个决定，或者请求技术经理帮忙解决。**不要让变更列表隐作者和审阅人无法得出一个解决而一直放在待解决区**
+- 如果还是解决不了问题，常见的方法是会议升级，通常可以进行更宽泛的团队会议讨论，让技术Leader参与进来，让代码的维护者做这个决定，或者请求技术经理帮忙解决。**不要让变更列表由于作者和审阅人无法得出一个解决方案而一直搁置审阅**
 
 
 

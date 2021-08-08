@@ -179,5 +179,5 @@
 
   
 
-## 下一篇：指路[代码审阅](https://google.github.io/eng-practices/review/reviewer/navigate.html)
+## 下一篇：指路[代码审阅](https://github.com/Trojan0523/Code-Review-Docs/blob/main/Navigating%20a%20CL%20in%20review.md)
 

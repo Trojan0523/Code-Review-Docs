@@ -88,5 +88,5 @@
 
 
 
-### 下一篇： [我在代码审阅中想收获到什么东西](https://github.com/Trojan0523/Code-Review-Docs/blob/main/What%20to%20look%20for%20in%20a%20code%20review.md)
+### 下一篇： [我在代码审阅中想收获到什么东西](https://github.com/Trojan0523/Code-Review-Docs/blob/main/English-comparison/What%20to%20look%20for%20in%20a%20code%20review.md)
 

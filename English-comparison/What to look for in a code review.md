@@ -179,5 +179,5 @@
 
   
 
-## 下一篇：指路[代码审阅](https://github.com/Trojan0523/Code-Review-Docs/blob/main/Navigating%20a%20CL%20in%20review.md)
+## 下一篇：指路[代码审阅](https://github.com/Trojan0523/Code-Review-Docs/blob/main/English-comparison/Navigating%20a%20CL%20in%20review.md)
 

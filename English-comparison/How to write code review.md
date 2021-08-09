@@ -57,5 +57,5 @@
 
 
 
-## 下一篇： [处理代码审阅中的阻力](https://github.com/Trojan0523/Code-Review-Docs/blob/main/Handling%20pushback%20in%20code%20reviews.md)
+## 下一篇： [处理代码审阅中的阻力](https://github.com/Trojan0523/Code-Review-Docs/blob/main/English-comparison/Handling%20pushback%20in%20code%20reviews.md)
 

@@ -47,5 +47,5 @@
 
 ## 解决冲突
 
-- 如果上述的情况还是解决不了你和开发者之间的矛盾，请遵循[代码审阅标准](https://github.com/Trojan0523/Code-Review-Docs/blob/main/eng-practices%20(%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AE%9E%E8%B7%B5).md)，这些准则可以帮助你去解决矛盾。
+- 如果上述的情况还是解决不了你和开发者之间的矛盾，请遵循[代码审阅标准](https://github.com/Trojan0523/Code-Review-Docs/blob/main/English-comparison/eng-practices%20(%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AE%9E%E8%B7%B5).md)，这些准则可以帮助你去解决矛盾。
 

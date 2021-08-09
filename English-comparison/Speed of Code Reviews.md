@@ -97,7 +97,7 @@
 
 
 
-## 下一篇： [如何编写代码审阅评论](https://github.com/Trojan0523/Code-Review-Docs/blob/main/How%20to%20write%20code%20review.md)
+## 下一篇： [如何编写代码审阅评论](https://github.com/Trojan0523/Code-Review-Docs/blob/main/English-comparison/How%20to%20write%20code%20review.md)
 
 
 
